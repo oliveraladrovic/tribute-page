@@ -1,0 +1,48 @@
+#main {
+  background: linear-gradient(white, #7a7a7a);
+  background-repeat: no-repeat;
+  font-size: 130%;
+  margin: 0;
+  padding: 0;
+}
+#main * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#title {
+  text-align: center;
+  padding: 30px;
+}
+#main header p {
+  text-align: center;
+  font-weight: bold;
+}
+#main main {
+  padding: 50px 10px;
+}
+#img-div {
+  text-align: center;
+}
+#image {
+  width: 100%;
+  max-width: 1045px;
+}
+#tribute-info {
+  padding: 50px 0;
+  text-align: center;
+}
+#main h2 {
+  padding: 30px 0;
+}
+#main ul {
+  display: inline-block;
+  text-align: left;
+}
+#main li {
+  padding: 10px 0;
+}
+#footer {
+  text-align: center;
+  font-size: 150%;
+}
